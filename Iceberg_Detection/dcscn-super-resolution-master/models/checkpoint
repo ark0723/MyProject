@@ -1,0 +1,2 @@
+model_checkpoint_path: "dcscn_L10_F128to32_G1.20_NIN_A64_BI_D0.80_prelu_band1_0.ckpt"
+all_model_checkpoint_paths: "dcscn_L10_F128to32_G1.20_NIN_A64_BI_D0.80_prelu_band1_0.ckpt"
